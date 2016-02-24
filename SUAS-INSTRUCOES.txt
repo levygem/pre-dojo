@@ -1,0 +1,4 @@
+1. A Solução ainda pode ser melhorada incluindo mais algumas abstrações, fábricas, tratador de eventos etc.
+2. Foi criado o projeto maven pre-dojo, com maven instalado, basta executar o goals de build, test , package etc
+2. Os arquivos utilizados no testes encontram-se no diretório sample dentro do projeto
+4. Executar o jar gerado no diretório target passando como parâmetro o caminho completo para o arquivo de log.
