@@ -1,2 +1,4 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+1. A SoluÃ§Ã£o ainda pode ser melhorada incluindo mais algumas abstraÃ§Ãµes, fÃ¡bricas, tratador de eventos etc.
+2. Foi criado o projeto maven pre-dojo(zipado), descompactar, com maven instalado, basta executar o goals de build, test , package etc
+2. Os arquivos utilizados no testes encontram-se no diretÃ³rio sample dentro do projeto
+4. Executar o jar gerado no diretÃ³rio target passando como parÃ¢metro o caminho completo para o arquivo de log.
